@@ -18,7 +18,7 @@ This project predicts **real-time air pollution levels** using **Random Forest, 
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Machine Learning Algorithms:** Random Forest
 - **Data Clustering:**  Cosine Similarity  
-- **Dataset:** CSV-based air pollution records from CPCB  
+ 
 
 ## 📜 Installation & Usage
 ### 1️⃣ Install Dependencies
