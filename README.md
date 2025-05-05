@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project predicts **real-time air pollution levels** using **Random Forest, Logistic Regression, and Decision Trees**. It fetches data from **CPCB** (Central Pollution Control Board), preprocesses it, and provides insights into harmful gases like **NO, PM10, NO3, and SO2**. The system is designed to handle large datasets efficiently and provide accurate air quality predictions.
+This project predicts **real-time air pollution levels** using **Random Forest**. It fetches data , preprocesses it, and provides insights into harmful gases like **NO, PM10, NO3, and SO2**. The system is designed to handle large datasets efficiently and provide accurate air quality predictions.
 
 ## 🚀 Features
 
