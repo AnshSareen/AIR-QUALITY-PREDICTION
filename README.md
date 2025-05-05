@@ -8,7 +8,7 @@ This project predicts **real-time air pollution levels** using **Random Forest, 
 
 ✅ **Real-time Air Quality Prediction** using machine learning models.  
 ✅ **Data Collection & Preprocessing** to handle missing values and outliers.  
-✅ **Random Forest & Decision Trees** for accurate classification.  
+✅ **Random Forest** for accurate classification.  
 ✅ **Exploratory Data Analysis (EDA)** and **visualization** for insights.  
 ✅ **Scalable & Efficient** to handle large datasets.  
 
@@ -16,8 +16,8 @@ This project predicts **real-time air pollution levels** using **Random Forest, 
 
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning Algorithms:** Random Forest, Logistic Regression, Decision Trees  
-- **Data Clustering:** K-Means Clustering & Cosine Similarity  
+- **Machine Learning Algorithms:** Random Forest
+- **Data Clustering:**  Cosine Similarity  
 - **Dataset:** CSV-based air pollution records from CPCB  
 
 ## 📜 Installation & Usage
